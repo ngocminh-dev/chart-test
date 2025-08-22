@@ -1,5 +1,5 @@
 import React from 'react'
-import StockChart from './components/chart'
+import StockChart from './components/StockChart.jsx'
 
 
 const App = () => {
