@@ -6,7 +6,6 @@ const App = () => {
   return (
     <>
       <StockChart></StockChart>
-      <div>App</div>
     </>
   )
 }
